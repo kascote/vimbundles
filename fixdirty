@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# http://www.nils-haldenwang.de/frameworks-and-tools/git/how-to-ignore-changes-in-git-submodules
+
+sed -i '/url =/a \\tignore = dirty' .gitmodules

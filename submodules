@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# after clone repo run this to update submodules
+
+git submodule update --init

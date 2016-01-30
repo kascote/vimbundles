@@ -1,0 +1,168 @@
+[submodule "LargeFile"]
+	path = LargeFile
+	url = https://github.com/vim-scripts/LargeFile.git
+	ignore = dirty
+[submodule "ack.vim"]
+	path = ack.vim
+	url = https://github.com/mileszs/ack.vim.git
+	ignore = dirty
+[submodule "bufexplorer"]
+	path = bufexplorer
+	url = https://github.com/jlanzarotta/bufexplorer.git
+	ignore = dirty
+[submodule "ctrlp.vim"]
+	path = ctrlp.vim
+	url = https://github.com/kien/ctrlp.vim.git
+	ignore = dirty
+[submodule "ctrlp_bdelete.vim"]
+	path = ctrlp_bdelete.vim
+	url = https://github.com/d11wtq/ctrlp_bdelete.vim.git
+	ignore = dirty
+[submodule "file-line"]
+	path = file-line
+	url = https://github.com/bogado/file-line.git
+	ignore = dirty
+[submodule "gitignore"]
+	path = gitignore
+	url = https://github.com/vim-scripts/gitignore.git
+	ignore = dirty
+[submodule "goyo.vim"]
+	path = goyo.vim
+	url = https://github.com/junegunn/goyo.vim.git
+	ignore = dirty
+[submodule "landscape.vim"]
+	path = landscape.vim
+	url = https://github.com/itchyny/landscape.vim.git
+	ignore = dirty
+[submodule "lightline.vim"]
+	path = lightline.vim
+	url = https://github.com/itchyny/lightline.vim.git
+	ignore = dirty
+[submodule "neocomplete.vim"]
+	path = neocomplete.vim
+	url = https://github.com/Shougo/neocomplete.vim.git
+	ignore = dirty
+[submodule "nerdtree"]
+	path = nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+	ignore = dirty
+[submodule "scratch.vim"]
+	path = scratch.vim
+	url = https://github.com/mtth/scratch.vim
+	ignore = dirty
+[submodule "supertab"]
+	path = supertab
+	url = https://github.com/ervandew/supertab.git
+	ignore = dirty
+[submodule "syntastic"]
+	path = syntastic
+	url = https://github.com/scrooloose/syntastic.git
+	ignore = dirty
+[submodule "tagbar"]
+	path = tagbar
+	url = https://github.com/majutsushi/tagbar.git
+	ignore = dirty
+[submodule "ultisnips"]
+	path = ultisnips
+	url = https://github.com/SirVer/ultisnips.git
+	ignore = dirty
+[submodule "vim-coffee-script"]
+	path = vim-coffee-script
+	url = https://github.com/kchmck/vim-coffee-script.git
+	ignore = dirty
+[submodule "vim-commentary"]
+	path = vim-commentary
+	url = https://github.com/tpope/vim-commentary.git
+	ignore = dirty
+[submodule "vim-easy-align"]
+	path = vim-easy-align
+	url = https://github.com/junegunn/vim-easy-align.git
+	ignore = dirty
+[submodule "vim-endwise"]
+	path = vim-endwise
+	url = https://github.com/tpope/vim-endwise.git
+	ignore = dirty
+[submodule "vim-fish"]
+	path = vim-fish
+	url = https://github.com/dag/vim-fish.git
+	ignore = dirty
+[submodule "vim-follow-my-lead"]
+	path = vim-follow-my-lead
+	url = https://github.com/ktonga/vim-follow-my-lead.git
+	ignore = dirty
+[submodule "vim-go"]
+	path = vim-go
+	url = https://github.com/fatih/vim-go.git
+	ignore = dirty
+[submodule "vim-indexed-search"]
+	path = vim-indexed-search
+	url = https://github.com/henrik/vim-indexed-search.git
+	ignore = dirty
+[submodule "vim-javascript-syntax"]
+	path = vim-javascript-syntax
+	url = https://github.com/jelera/vim-javascript-syntax.git
+	ignore = dirty
+[submodule "vim-json"]
+	path = vim-json
+	url = https://github.com/elzr/vim-json.git
+	ignore = dirty
+[submodule "vim-mark"]
+	path = vim-mark
+	url = https://github.com/dimasg/vim-mark.git
+	ignore = dirty
+[submodule "vim-markdown"]
+	path = vim-markdown
+	url = https://github.com/tpope/vim-markdown.git
+	ignore = dirty
+[submodule "vim-materialtheme"]
+	path = vim-materialtheme
+	url = https://github.com/Wutzara/vim-materialtheme.git
+	ignore = dirty
+[submodule "vim-mustache-handlebars"]
+	path = vim-mustache-handlebars
+	url = https://github.com/mustache/vim-mustache-handlebars
+	ignore = dirty
+[submodule "vim-obsession"]
+	path = vim-obsession
+	url = https://github.com/tpope/vim-obsession.git
+	ignore = dirty
+[submodule "vim-pencil"]
+	path = vim-pencil
+	url = https://github.com/reedes/vim-pencil
+	ignore = dirty
+[submodule "vim-rails"]
+	path = vim-rails
+	url = https://github.com/tpope/vim-rails.git
+	ignore = dirty
+[submodule "vim-repeat"]
+	path = vim-repeat
+	url = https://github.com/tpope/vim-repeat.git
+	ignore = dirty
+[submodule "vim-ruby"]
+	path = vim-ruby
+	url = https://github.com/vim-ruby/vim-ruby.git
+	ignore = dirty
+[submodule "vim-slim"]
+	path = vim-slim
+	url = https://github.com/slim-template/vim-slim.git
+	ignore = dirty
+[submodule "vim-smartinput"]
+	path = vim-smartinput
+	url = https://github.com/kana/vim-smartinput.git
+	ignore = dirty
+[submodule "vim-surround"]
+	path = vim-surround
+	url = https://github.com/tpope/vim-surround.git
+	ignore = dirty
+[submodule "vim-tmux"]
+	path = vim-tmux
+	url = https://github.com/tmux-plugins/vim-tmux.git
+	ignore = dirty
+[submodule "vim-tmux-focus-events"]
+	path = vim-tmux-focus-events
+	url = https://github.com/tmux-plugins/vim-tmux-focus-events.git
+	ignore = dirty
+[submodule "vim-unimpaired"]
+	path = vim-unimpaired
+	url = https://github.com/tpope/vim-unimpaired.git
+	ignore = dirty
