@@ -166,3 +166,7 @@
 	path = vim-unimpaired
 	url = https://github.com/tpope/vim-unimpaired.git
 	ignore = dirty
+[submodule "gruvbox"]
+	path = gruvbox
+	url = https://github.com/morhetz/gruvbox
+	ignore = dirty
